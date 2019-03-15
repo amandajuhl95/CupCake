@@ -107,7 +107,7 @@
                 font-family: HelveticaNeue-Thin;
                 font-size: 16px;
                 text-align: center;
-                padding: 5px 10px;
+                padding: 5px 5px;
                 border-radius: 25px;
                 text-align: center;
             }
@@ -127,7 +127,7 @@
                 border-radius: 25px;
             }
 
-            #shop  select {
+            #shop select {
                 position: static; width: auto; 
                 display: inline-block;
                 align-items: center;
