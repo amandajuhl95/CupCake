@@ -1,6 +1,9 @@
 # SchoolProjects
 
-Sofie Amalie Landt & Amanda Juhl Hansen
+Sofie Amalie Landt - githubnavn: amalielandt
+
+Amanda Juhl Hansen - githubnavn: amandajuhl95
+
 Link til droplet: [link](http://157.230.97.134/CupCakeShop/)
 
 Grundet gruppeproblemer har vi lavet et nyt repository inden vi afleverede vores projekt. Dette betyder at alle vores commits i løbet af projektet ikke er at finde på det nye repository. 
