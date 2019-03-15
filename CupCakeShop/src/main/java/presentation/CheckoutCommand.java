@@ -27,7 +27,7 @@ public class CheckoutCommand extends Command
      * balance, and afterwards the balance is updated in the database as well
      * The string returned is saved in session as checkout, if checkout was
      * succesful, the cart is saved in session as invoice, and the attributes
-     * cart and invoices are removed - forwards to checkout.jsp.
+     * cart, allinvoices and invoices are removed - forwards to checkout.jsp.
      *
      * @param request a HttpServletRequest
      * @param response a HttpServletResponse
