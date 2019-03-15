@@ -53,6 +53,7 @@ public class CheckoutCommand extends Command
                 session.setAttribute("invoice", invoice);
                 session.removeAttribute("cart");
                 session.removeAttribute("invoices");
+                session.removeAttribute("allinvoices");
             }
 
             request.getRequestDispatcher("/checkout.jsp").forward(request, response);
