@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08-03-2019, 12:30:24
+    Author     : aamandajuhl and sofieamalielandt
+*/
+
+.index div {
+    border-style: solid;
+    border-color: #f0d1e0;
+    border-radius: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+    width: 300px;
+    background-color: rgba(232, 206, 223, 0.60);
+    text-align: center;  
+}
+
+#index h1 {
+    color: rgba(239, 116, 172, 1.0);
+    display: -webkit-flex;
+    -webkit-align-items: center; 
+    position: static; width: 580px; margin: 0 auto; 
+}
+
+#index p {
+    color:  rgba(239, 116, 172, 1.0);
+}
+
+#shop div {
+    border-style: solid;
+    border-color: #f0d1e0;
+    border-radius: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+    width: 700px;
+    background-color: rgba(232, 206, 223, 0.80);
+    text-align: center;
+}
+
+#checkout div {
+    border-style: solid;
+    border-color: #f0d1e0;
+    border-radius: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+    width: 700px;
+    background-color: rgba(232, 206, 223, 0.80);
+    font-size: 20px;
+}
+
+#invoice div{
+    border-style: solid;
+    border-color: #f0d1e0;
+    border-radius: 25px;
+    padding: 25px 10px;
+    box-sizing: border-box;
+    width: 700px;
+    background-color: rgba(232, 206, 223, 0.80);
+}
+
+#shoppingcart div{
+    border-style: solid;
+    border-color: #f0d1e0;
+    border-radius: 25px;
+    box-sizing: border-box;
+    width: 700px;
+    background-color: rgba(232, 206, 223, 0.80);
+    padding: 25px;
+    text-align: center;
+}
+
+#shoppingcart table{
+    text-align: center;
+}
+#shoppingcart td, #shoppingcart th {
+    padding: 8px;
+    text-align: center;
+}
+
+body{
+    background-image: url("../Images/cupcakes.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: HelveticaNeue-Thin;
+}
+
