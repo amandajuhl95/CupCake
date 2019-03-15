@@ -7,9 +7,9 @@
 <%@include file = "header.jsp" %>
 
 <form method = "POST">
-    <center id="shoppingcart"> 
+    <center id="shop"> 
         <div> 
-            <table id="shoppingcart">
+            <table id="shop">
             <%                
                 out.println("<tr><td><b>Username</b></td> <td><input type =\"text\" id=\"username\" name =\"username\" value=\"" + user.getUserName() + "\" minlength=\"4\" required disabled></td></tr>");
                 out.println("<tr><td><b>Email</b></td> <td><input id=\"email\" type =\"text\" name =\"email\" value=\"" + user.getEmail() + "\" disabled></td></tr>");

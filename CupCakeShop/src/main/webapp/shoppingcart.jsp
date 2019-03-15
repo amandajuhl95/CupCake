@@ -58,7 +58,7 @@
 <center id="shoppingcart">
     <div>
         <form method = "POST">
-            <table id="shoppingcart"> 
+            <table> 
                 <tr>
                     <th><b>Cupcake</b></th>
                     <th><b>Quantity</b></th>

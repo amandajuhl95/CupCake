@@ -210,8 +210,6 @@
                 text-align: center;
             }
 
-
-
             #checkout  button {
                 position: static; width: auto; 
                 display: inline-block;
