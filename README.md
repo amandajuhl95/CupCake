@@ -3,6 +3,7 @@
 Gruppemedlemmer
 
 Sofie Amalie Landt - githubnavn: amalielandt
+
 Amanda Juhl Hansen - githubnavn: amandajuhl95
 
 
